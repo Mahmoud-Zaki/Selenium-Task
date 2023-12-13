@@ -1,6 +1,6 @@
 # Selenuim Task
 
-I make two feature and called them (Select Donation & Add Donation)
+I made two features and called them (Select Donation & Add Donation)
 
 Select Donation => choose the type of donation from the home page and add the donation value then add it to donations cart
 
